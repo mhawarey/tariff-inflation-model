@@ -1,5 +1,7 @@
 # Tariff Inflation Impact Model
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An interactive economic model simulating the inflationary impact of tariffs on Chinese imports to the US economy. Features sensitivity analysis across key parameters with real-time visualization.
 
 ## Screenshots
@@ -49,6 +51,7 @@ python tariff_model.py
 ## Author
 
 **Dr. Mosab Hawarey**
+>
 PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
 
 - GitHub: https://github.com/mhawarey
